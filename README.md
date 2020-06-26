@@ -1,7 +1,7 @@
 # Red_Arabidopsis
 Proceso para la creación de una de red sobre genes de Arabidopsis thaliana en genemania
 
-Nuestro gen de interes es el " DREB2D" de arabidopsis thaliana.
+Nuestro gen de interes es el "DREB2D" de arabidopsis thaliana.
 
 1. Debes entrar a la página de genemania.org a partir de esta web generaremos nuestra red de genes.
 
@@ -14,3 +14,4 @@ Nuestro gen de interes es el " DREB2D" de arabidopsis thaliana.
 5. Para descargar el mapa de genes encontramos un pequeño icono de un disquette, al presionar al ícono nos despliega un menú en donde escogemos como queremos descargar el mapa y con que información, nosotros seleccionamos el que dice "Network with plain, top labels".
 
 Como se comento al principio esta web sirve para analizar las interacciones entre genes.
+ Con esta red de genes pudimos observar que el gen "DREB2D" se co-expresa con LEA, RAP2-13, COL3, XERO1, ERF105 y SESA5.
